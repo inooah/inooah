@@ -1,0 +1,46 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260">
+    <stop offset="0%" stop-color="#06101D"/>
+    <stop offset="100%" stop-color="#0A1E39"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#67E8F9"/>
+    <stop offset="100%" stop-color="#818CF8"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="260" rx="28" fill="url(#bg)"/>
+<rect x="0.75" y="0.75" width="1198.5" height="258.5" rx="27.25" stroke="rgba(255,255,255,0.14)" stroke-width="1.5"/>
+<text x="48" y="42" fill="#EAF4FF" font-family="Arial, sans-serif" font-size="26" font-weight="800">Framework analítico</text>
+<text x="48" y="70" fill="#A9C5E3" font-family="Arial, sans-serif" font-size="16">Uma estrutura simples para sair do dado bruto e chegar a decisões mais claras.</text>
+
+<g>
+  <line x1="190" y1="160" x2="1010" y2="160" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="190" cy="160" r="9" fill="#67E8F9"/>
+  <circle cx="463" cy="160" r="9" fill="#38BDF8"/>
+  <circle cx="736" cy="160" r="9" fill="#38BDF8"/>
+  <circle cx="1010" cy="160" r="9" fill="#818CF8"/>
+</g>
+
+<g>
+  <rect x="70" y="108" width="240" height="92" rx="20" fill="#0B203C" stroke="#294D75"/>
+  <text x="98" y="140" fill="#67E8F9" font-family="Arial, sans-serif" font-size="14" font-weight="700">01</text>
+  <text x="98" y="164" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24" font-weight="800">Entender</text>
+  <text x="98" y="188" fill="#A9C5E3" font-family="Arial, sans-serif" font-size="15">Compreender o problema certo</text>
+
+  <rect x="343" y="108" width="240" height="92" rx="20" fill="#0B203C" stroke="#294D75"/>
+  <text x="371" y="140" fill="#67E8F9" font-family="Arial, sans-serif" font-size="14" font-weight="700">02</text>
+  <text x="371" y="164" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24" font-weight="800">Estruturar</text>
+  <text x="371" y="188" fill="#A9C5E3" font-family="Arial, sans-serif" font-size="15">Limpar, validar e organizar dados</text>
+
+  <rect x="616" y="108" width="240" height="92" rx="20" fill="#0B203C" stroke="#294D75"/>
+  <text x="644" y="140" fill="#67E8F9" font-family="Arial, sans-serif" font-size="14" font-weight="700">03</text>
+  <text x="644" y="164" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24" font-weight="800">Analisar</text>
+  <text x="644" y="188" fill="#A9C5E3" font-family="Arial, sans-serif" font-size="15">Extrair padrões, sinais e relações</text>
+
+  <rect x="889" y="108" width="240" height="92" rx="20" fill="#0B203C" stroke="#294D75"/>
+  <text x="917" y="140" fill="#67E8F9" font-family="Arial, sans-serif" font-size="14" font-weight="700">04</text>
+  <text x="917" y="164" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24" font-weight="800">Comunicar</text>
+  <text x="917" y="188" fill="#A9C5E3" font-family="Arial, sans-serif" font-size="15">Transformar análise em decisão</text>
+</g>
+</svg>

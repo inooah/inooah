@@ -1,0 +1,89 @@
+<svg width="1600" height="430" viewBox="0 0 1600 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="430" gradientUnits="userSpaceOnUse">
+    <stop offset="0%" stop-color="#050B14"/>
+    <stop offset="30%" stop-color="#0A1B34"/>
+    <stop offset="72%" stop-color="#0EA5E9"/>
+    <stop offset="100%" stop-color="#6D5DFB"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#67E8F9"/>
+    <stop offset="45%" stop-color="#38BDF8"/>
+    <stop offset="100%" stop-color="#818CF8"/>
+  </linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.10"/>
+    <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.03"/>
+  </linearGradient>
+  <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+    <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#000000" flood-opacity="0.35"/>
+  </filter>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+    <feGaussianBlur stdDeviation="22"/>
+  </filter>
+</defs>
+
+<rect width="1600" height="430" fill="url(#bg)"/>
+
+<g opacity="0.10">
+  <path d="M100 0V430M210 0V430M320 0V430M430 0V430M540 0V430M650 0V430M760 0V430M870 0V430M980 0V430M1090 0V430M1200 0V430M1310 0V430M1420 0V430M1530 0V430" stroke="#ffffff"/>
+  <path d="M0 70H1600M0 140H1600M0 210H1600M0 280H1600M0 350H1600" stroke="#ffffff"/>
+</g>
+
+<circle cx="1260" cy="120" r="120" fill="#38BDF8" opacity="0.18" filter="url(#glow)"/>
+<circle cx="1435" cy="90" r="85" fill="#8B5CF6" opacity="0.20" filter="url(#glow)"/>
+<circle cx="1360" cy="310" r="130" fill="#22D3EE" opacity="0.12" filter="url(#glow)"/>
+
+<g transform="translate(70,70)" filter="url(#shadow)">
+  <rect x="0" y="0" width="300" height="290" rx="26" fill="url(#glass)" stroke="rgba(255,255,255,0.18)"/>
+  <text x="28" y="40" fill="#D6E8F8" font-family="Arial, sans-serif" font-size="18" font-weight="700">Dashboard analítico</text>
+
+  <rect x="28" y="62" width="112" height="74" rx="18" fill="#07111F" stroke="#2A4A73"/>
+  <text x="44" y="90" fill="#8CB9E6" font-family="Arial, sans-serif" font-size="12">Foco</text>
+  <text x="44" y="118" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24" font-weight="700">Dados</text>
+
+  <rect x="160" y="62" width="112" height="74" rx="18" fill="#07111F" stroke="#2A4A73"/>
+  <text x="176" y="90" fill="#8CB9E6" font-family="Arial, sans-serif" font-size="12">Entrega</text>
+  <text x="176" y="118" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24" font-weight="700">Insight</text>
+
+  <rect x="28" y="156" width="244" height="104" rx="18" fill="#07111F" stroke="#2A4A73"/>
+  <text x="44" y="180" fill="#8CB9E6" font-family="Arial, sans-serif" font-size="12">Fluxo</text>
+  <path d="M46 228 C78 217, 98 183, 130 190 C164 197, 175 236, 208 213 C226 200, 239 173, 252 160" stroke="url(#accent)" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <circle cx="46" cy="228" r="4.5" fill="#67E8F9"/>
+  <circle cx="130" cy="190" r="4.5" fill="#38BDF8"/>
+  <circle cx="208" cy="213" r="4.5" fill="#38BDF8"/>
+  <circle cx="252" cy="160" r="4.5" fill="#818CF8"/>
+</g>
+
+<g transform="translate(425,98)">
+  <text x="0" y="30" fill="#9CC8F1" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="2">BEN</text>
+  <text x="0" y="112" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="86" font-weight="800" letter-spacing="1">FERRARI</text>
+  <rect x="0" y="138" width="560" height="2" rx="1" fill="url(#accent)"/>
+  <text x="0" y="182" fill="#E2EEF9" font-family="Arial, sans-serif" font-size="22" font-weight="600">Analista de Dados • SQL • Python • Power BI</text>
+  <text x="0" y="220" fill="#9ABDDC" font-family="Arial, sans-serif" font-size="18">Transformando dados em clareza, contexto e decisão.</text>
+
+  <g transform="translate(0,258)">
+    <rect x="0" y="0" width="150" height="40" rx="20" fill="#0B203C" stroke="#27547F"/>
+    <text x="54" y="25" text-anchor="middle" fill="#EEF7FF" font-family="Arial, sans-serif" font-size="15" font-weight="700">SQL</text>
+
+    <rect x="164" y="0" width="150" height="40" rx="20" fill="#0B203C" stroke="#27547F"/>
+    <text x="239" y="25" text-anchor="middle" fill="#EEF7FF" font-family="Arial, sans-serif" font-size="15" font-weight="700">Python</text>
+
+    <rect x="328" y="0" width="170" height="40" rx="20" fill="#0B203C" stroke="#27547F"/>
+    <text x="413" y="25" text-anchor="middle" fill="#EEF7FF" font-family="Arial, sans-serif" font-size="15" font-weight="700">Power BI</text>
+  </g>
+</g>
+
+<g transform="translate(1200,162)" filter="url(#shadow)">
+  <rect width="290" height="164" rx="28" fill="url(#glass)" stroke="rgba(255,255,255,0.18)"/>
+  <text x="28" y="36" fill="#DDEAF7" font-family="Arial, sans-serif" font-size="14" font-weight="700">Clareza analítica</text>
+  <line x1="32" y1="130" x2="258" y2="130" stroke="#294D75"/>
+  <line x1="32" y1="100" x2="258" y2="100" stroke="#203A58"/>
+  <line x1="32" y1="70" x2="258" y2="70" stroke="#203A58"/>
+  <rect x="50" y="90" width="24" height="40" rx="8" fill="#1D4ED8"/>
+  <rect x="92" y="76" width="24" height="54" rx="8" fill="#0EA5E9"/>
+  <rect x="134" y="56" width="24" height="74" rx="8" fill="#38BDF8"/>
+  <rect x="176" y="40" width="24" height="90" rx="8" fill="#67E8F9"/>
+  <rect x="218" y="28" width="24" height="102" rx="8" fill="#818CF8"/>
+</g>
+</svg>

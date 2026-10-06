@@ -1,0 +1,13 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="150">
+    <stop offset="0%" stop-color="#07111F"/>
+    <stop offset="55%" stop-color="#0B203C"/>
+    <stop offset="100%" stop-color="#6D5DFB"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="150" rx="26" fill="url(#bg)"/>
+<rect x="0.75" y="0.75" width="1198.5" height="148.5" rx="25.25" stroke="rgba(255,255,255,0.16)" stroke-width="1.5"/>
+<text x="600" y="63" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="28" font-weight="800">Menos ruído. Mais contexto. Melhores decisões.</text>
+<text x="600" y="100" text-anchor="middle" fill="#C7D9EB" font-family="Arial, sans-serif" font-size="18">dados → entendimento → insight → ação</text>
+</svg>
