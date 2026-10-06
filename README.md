@@ -1,40 +1,47 @@
 <!--
-README de perfil GitHub
-Usuário: inooah
-Estilo: dashboard escuro + verde neon
+GitHub Profile README
+User: inooah
+Style: dark dashboard + green neon
 -->
 
 <div align="center">
 
 # 👨‍💻 Noah
 
-### Data Analytics • Python • SQL • Power BI • Machine Learning
+### Data Analyst • Data Science Enthusiast
 
-**Transformando dados em decisões.**
+**SQL • Python • Power BI • Estatística • Machine Learning**
 
-<img src="https://komarev.com/ghpvc/?username=inooah&label=PROFILE%20VIEWS&color=39ff14&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=inooah&label=PROFILE%20VIEWS&color=39ff14&style=flat-square" />
 
 </div>
 
 ---
 
-## 👋 Sobre mim
+## 🟢 About Me
 
-```python
-noah = {
-    "username": "inooah",
-    "area": "Data Analytics & Data Science",
-    "estudando": [
-        "SQL",
-        "Power BI",
-        "Python",
-        "Estatística",
-        "Machine Learning"
-    ],
-    "foco": "Construir projetos reais e um portfólio forte",
-    "objetivo": "Transformar dados em insights e decisões"
-}
-```
+<table>
+<tr>
+<td width="55%">
+
+🎯 Focado em **Data Analytics & Data Science**  
+📊 Transformando dados em **insights e decisões**  
+🧠 Atualmente aprofundando conhecimentos em **SQL, Power BI, Python, Estatística e Machine Learning**  
+🚀 Construindo projetos para um portfólio cada vez mais completo  
+
+</td>
+<td width="45%" align="center">
+
+### 📌 Current Focus
+
+`Data Analytics`  
+`Business Intelligence`  
+`Python for Data`  
+`Machine Learning`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -60,25 +67,27 @@ noah = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=inooah&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=ffffff" />
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=inooah&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=ffffff&ring_color=39ff14"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inooah&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=ffffff" />
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=inooah&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=ffffff"/>
 
 </div>
 
 ---
 
-## 🔥 Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=inooah&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=8B949E" />
+<img src="https://streak-stats.demolab.com?user=inooah&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=8B949E" />
 
 </div>
 
 ---
 
-## 🧠 Atualmente estudando
+## 🧠 Currently Learning
 
 <table align="center">
 <tr>
@@ -87,11 +96,11 @@ noah = {
 
 ### 🗄️ SQL
 
-Queries  
 Joins  
 CTEs  
 Subqueries  
-Window Functions
+Window Functions  
+Data Analysis
 
 </td>
 
@@ -99,10 +108,10 @@ Window Functions
 
 ### 📊 Power BI
 
-Dashboards  
 DAX  
 Modelagem  
 KPIs  
+Dashboards  
 Storytelling
 
 </td>
@@ -126,7 +135,8 @@ Automação
 Scikit-Learn  
 Regressão  
 Classificação  
-Avaliação de modelos
+Validação  
+Modelos
 
 </td>
 
@@ -135,57 +145,61 @@ Avaliação de modelos
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
 
-### 📊 Análise Exploratória de Dados
+<td width="50%" valign="top">
+
+### 📊 Exploratory Data Analysis
 
 **Python • Pandas • Matplotlib**
 
-Limpeza, exploração e análise de datasets para geração de insights.
+Limpeza, tratamento, exploração e visualização de dados para encontrar padrões e gerar insights.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📈 Dashboard de Business Intelligence
+### 📈 Business Intelligence Dashboard
 
-**Power BI • DAX • Modelagem**
+**Power BI • DAX • Data Modeling**
 
-Dashboards interativos com KPIs e foco em tomada de decisão.
+Dashboards interativos, KPIs e modelagem de dados com foco em tomada de decisão.
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🗄️ Projeto SQL
+<td width="50%" valign="top">
+
+### 🗄️ SQL Analytics
 
 **SQL • PostgreSQL**
 
-Consultas, joins, CTEs, funções de janela e análise de dados.
+Consultas analíticas com joins, CTEs, subqueries, agregações e funções de janela.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 Machine Learning
 
 **Python • Scikit-Learn**
 
-Construção, treinamento e avaliação de modelos preditivos.
+Treinamento, validação e avaliação de modelos preditivos.
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 📈 Atividade
+## 📈 Activity
 
 <div align="center">
 
@@ -195,20 +209,26 @@ Construção, treinamento e avaliação de modelos preditivos.
 
 ---
 
-## 🎯 Objetivos
+## 🎯 Goals
 
-- Criar projetos de **SQL** com problemas reais.
-- Desenvolver dashboards profissionais no **Power BI**.
-- Evoluir em **Python para análise de dados**.
-- Aplicar **estatística** em projetos práticos.
-- Construir projetos de **Machine Learning**.
-- Consolidar um portfólio voltado para **Data Analytics / Data Science**.
+<div align="center">
+
+| Objetivo | Status |
+|---|---|
+| SQL para análise de dados | 🟢 Em evolução |
+| Power BI e DAX | 🟢 Em evolução |
+| Python para Data Analytics | 🟢 Em evolução |
+| Estatística aplicada | 🟡 Em estudo |
+| Machine Learning | 🟡 Em estudo |
+| Portfólio de projetos reais | 🚀 Construindo |
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⚡ Dados contam histórias. Meu trabalho é encontrá-las.
+### `> transforming_data_into_decisions`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=100&section=footer" />
 
