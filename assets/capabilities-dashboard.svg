@@ -1,0 +1,34 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320">
+    <stop offset="0%" stop-color="#0A0F18"/>
+    <stop offset="100%" stop-color="#141B29"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+<rect x="0.75" y="0.75" width="1198.5" height="318.5" rx="27.25" stroke="rgba(255,255,255,0.14)" stroke-width="1.5"/>
+<text x="48" y="44" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="26" font-weight="800">Capacidades em desenvolvimento</text>
+<text x="48" y="72" fill="#AAB8C8" font-family="Arial, sans-serif" font-size="16">Uma visão mais sofisticada da stack: ferramenta, aplicação e valor entregue.</text>
+
+<g>
+  <rect x="48" y="104" width="250" height="176" rx="22" fill="#0F172A" stroke="#2B3647"/>
+  <text x="72" y="136" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="14" font-weight="700">SQL</text>
+  <text x="72" y="166" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24" font-weight="800">Estrutura e lógica</text>
+  <text x="72" y="200" fill="#93A4B7" font-family="Arial, sans-serif" font-size="15">consultas analíticas, CTEs, joins e organização de informação relacional</text>
+
+  <rect x="330" y="104" width="250" height="176" rx="22" fill="#0F172A" stroke="#2B3647"/>
+  <text x="354" y="136" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="14" font-weight="700">Power BI</text>
+  <text x="354" y="166" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24" font-weight="800">Leitura visual</text>
+  <text x="354" y="200" fill="#93A4B7" font-family="Arial, sans-serif" font-size="15">dashboards com hierarquia, KPI e interpretação orientada a negócio</text>
+
+  <rect x="612" y="104" width="250" height="176" rx="22" fill="#0F172A" stroke="#2B3647"/>
+  <text x="636" y="136" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="14" font-weight="700">Python</text>
+  <text x="636" y="166" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24" font-weight="800">Exploração e automação</text>
+  <text x="636" y="200" fill="#93A4B7" font-family="Arial, sans-serif" font-size="15">tratamento de dados, EDA, visualização e ganho de escala analítica</text>
+
+  <rect x="894" y="104" width="250" height="176" rx="22" fill="#0F172A" stroke="#2B3647"/>
+  <text x="918" y="136" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="14" font-weight="700">ML</text>
+  <text x="918" y="166" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24" font-weight="800">Predição com método</text>
+  <text x="918" y="200" fill="#93A4B7" font-family="Arial, sans-serif" font-size="15">modelos avaliados com critério, métricas corretas e contexto do problema</text>
+</g>
+</svg>

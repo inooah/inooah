@@ -1,34 +1,34 @@
 <svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340">
-    <stop offset="0%" stop-color="#06101D"/>
-    <stop offset="100%" stop-color="#0A1E39"/>
+    <stop offset="0%" stop-color="#0A0F18"/>
+    <stop offset="100%" stop-color="#141B29"/>
   </linearGradient>
 </defs>
 <rect width="1200" height="340" rx="28" fill="url(#bg)"/>
 <rect x="0.75" y="0.75" width="1198.5" height="338.5" rx="27.25" stroke="rgba(255,255,255,0.14)" stroke-width="1.5"/>
-<text x="48" y="44" fill="#EAF4FF" font-family="Arial, sans-serif" font-size="26" font-weight="800">Arquitetura do portfólio</text>
-<text x="48" y="72" fill="#A9C5E3" font-family="Arial, sans-serif" font-size="16">Quatro frentes que estruturam minha evolução em dados.</text>
+<text x="48" y="44" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="26" font-weight="800">Sistema de portfólio</text>
+<text x="48" y="72" fill="#AAB8C8" font-family="Arial, sans-serif" font-size="16">Projetos pensados como demonstrações de capacidade, e não apenas exercícios soltos.</text>
 
 <g>
-  <rect x="48" y="104" width="250" height="176" rx="22" fill="#0B203C" stroke="#294D75"/>
-  <text x="72" y="136" fill="#67E8F9" font-family="Arial, sans-serif" font-size="14" font-weight="700">PYTHON</text>
+  <rect x="48" y="104" width="250" height="184" rx="22" fill="#0F172A" stroke="#2B3647"/>
+  <text x="72" y="136" fill="#7DD3FC" font-family="Arial, sans-serif" font-size="14" font-weight="700">PYTHON</text>
   <text x="72" y="166" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24" font-weight="800">Análise Exploratória</text>
-  <text x="72" y="198" fill="#A9C5E3" font-family="Arial, sans-serif" font-size="15">Tratamento, comparação de variáveis, visualização e leitura de padrões.</text>
+  <text x="72" y="204" fill="#93A4B7" font-family="Arial, sans-serif" font-size="15">limpeza, exploração, comparação de variáveis e visualização de padrões</text>
 
-  <rect x="330" y="104" width="250" height="176" rx="22" fill="#0B203C" stroke="#294D75"/>
-  <text x="354" y="136" fill="#67E8F9" font-family="Arial, sans-serif" font-size="14" font-weight="700">POWER BI</text>
+  <rect x="330" y="104" width="250" height="184" rx="22" fill="#0F172A" stroke="#2B3647"/>
+  <text x="354" y="136" fill="#A78BFA" font-family="Arial, sans-serif" font-size="14" font-weight="700">POWER BI</text>
   <text x="354" y="166" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24" font-weight="800">Business Intelligence</text>
-  <text x="354" y="198" fill="#A9C5E3" font-family="Arial, sans-serif" font-size="15">Dashboards orientados a decisão, KPIs e narrativa visual.</text>
+  <text x="354" y="204" fill="#93A4B7" font-family="Arial, sans-serif" font-size="15">dashboards com leitura rápida, indicadores relevantes e narrativa de negócio</text>
 
-  <rect x="612" y="104" width="250" height="176" rx="22" fill="#0B203C" stroke="#294D75"/>
-  <text x="636" y="136" fill="#67E8F9" font-family="Arial, sans-serif" font-size="14" font-weight="700">SQL</text>
+  <rect x="612" y="104" width="250" height="184" rx="22" fill="#0F172A" stroke="#2B3647"/>
+  <text x="636" y="136" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="14" font-weight="700">SQL</text>
   <text x="636" y="166" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24" font-weight="800">SQL Analytics</text>
-  <text x="636" y="198" fill="#A9C5E3" font-family="Arial, sans-serif" font-size="15">Consultas analíticas para responder perguntas de negócio.</text>
+  <text x="636" y="204" fill="#93A4B7" font-family="Arial, sans-serif" font-size="15">consultas para responder perguntas reais, consolidar métricas e estruturar análise</text>
 
-  <rect x="894" y="104" width="250" height="176" rx="22" fill="#0B203C" stroke="#294D75"/>
-  <text x="918" y="136" fill="#67E8F9" font-family="Arial, sans-serif" font-size="14" font-weight="700">ML</text>
+  <rect x="894" y="104" width="250" height="184" rx="22" fill="#0F172A" stroke="#2B3647"/>
+  <text x="918" y="136" fill="#94A3B8" font-family="Arial, sans-serif" font-size="14" font-weight="700">ML</text>
   <text x="918" y="166" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24" font-weight="800">Machine Learning</text>
-  <text x="918" y="198" fill="#A9C5E3" font-family="Arial, sans-serif" font-size="15">Modelos preditivos guiados por problema, validação e métricas.</text>
+  <text x="918" y="204" fill="#93A4B7" font-family="Arial, sans-serif" font-size="15">modelos preditivos guiados por problema, avaliação e interpretação</text>
 </g>
 </svg>
