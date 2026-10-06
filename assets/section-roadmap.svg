@@ -1,21 +1,13 @@
-<svg width="1200" height="154" viewBox="0 0 1200 154" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="142" viewBox="0 0 1200 142" fill="none" xmlns="http://www.w3.org/2000/svg">
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="154">
-    <stop offset="0%" stop-color="#0B0F17"/>
-    <stop offset="50%" stop-color="#111827"/>
-    <stop offset="100%" stop-color="#1F2937"/>
-  </linearGradient>
-  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0%" stop-color="#E2E8F0"/>
-    <stop offset="55%" stop-color="#7DD3FC"/>
-    <stop offset="100%" stop-color="#A78BFA"/>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="142">
+    <stop offset="0%" stop-color="#0C1118"/>
+    <stop offset="100%" stop-color="#18202B"/>
   </linearGradient>
 </defs>
-<rect width="1200" height="154" rx="28" fill="url(#bg)"/>
-<rect x="0.75" y="0.75" width="1198.5" height="152.5" rx="27.25" stroke="rgba(255,255,255,0.15)" stroke-width="1.5"/>
-<circle cx="82" cy="77" r="26" fill="#161F2D"/>
-<circle cx="82" cy="77" r="10" fill="#E2E8F0"/>
-<text x="132" y="66" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="34" font-weight="800">Roadmap</text>
-<text x="132" y="102" fill="#AAB8C8" font-family="Arial, sans-serif" font-size="18">Evolução técnica com direção consistente e progressiva.</text>
-<rect x="132" y="118" width="250" height="3" rx="1.5" fill="url(#line)"/>
+<rect width="1200" height="142" rx="24" fill="url(#bg)"/>
+<rect x="0.75" y="0.75" width="1198.5" height="140.5" rx="23.25" stroke="rgba(255,255,255,0.12)" stroke-width="1.5"/>
+<text x="46" y="58" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="32" font-weight="800">Desenvolvimento Profissional</text>
+<text x="46" y="91" fill="#A8B3C2" font-family="Arial, sans-serif" font-size="17">Evolução técnica alinhada a análise, BI e ciência de dados.</text>
+<rect x="46" y="108" width="180" height="2" rx="1" fill="#93C5FD"/>
 </svg>

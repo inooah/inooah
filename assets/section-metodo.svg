@@ -7,7 +7,7 @@
 </defs>
 <rect width="1200" height="142" rx="24" fill="url(#bg)"/>
 <rect x="0.75" y="0.75" width="1198.5" height="140.5" rx="23.25" stroke="rgba(255,255,255,0.12)" stroke-width="1.5"/>
-<text x="46" y="58" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="32" font-weight="800">Portfólio</text>
-<text x="46" y="91" fill="#A8B3C2" font-family="Arial, sans-serif" font-size="17">Projetos com leitura executiva, estrutura visual e aplicação prática.</text>
+<text x="46" y="58" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="32" font-weight="800">Método</text>
+<text x="46" y="91" fill="#A8B3C2" font-family="Arial, sans-serif" font-size="17">Uma forma estruturada de trabalhar problemas analíticos do início ao fim.</text>
 <rect x="46" y="108" width="180" height="2" rx="1" fill="#93C5FD"/>
 </svg>

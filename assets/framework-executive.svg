@@ -1,0 +1,32 @@
+<svg width="1200" height="270" viewBox="0 0 1200 270" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="270">
+    <stop offset="0%" stop-color="#0C1118"/>
+    <stop offset="100%" stop-color="#141C27"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="270" rx="26" fill="url(#bg)"/>
+<rect x="0.75" y="0.75" width="1198.5" height="268.5" rx="25.25" stroke="rgba(255,255,255,0.12)" stroke-width="1.5"/>
+<text x="46" y="44" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="25" font-weight="800">Framework de trabalho</text>
+<text x="46" y="72" fill="#9CA3AF" font-family="Arial, sans-serif" font-size="15">Do problema à decisão, com uma sequência analítica clara.</text>
+
+<line x1="140" y1="170" x2="1060" y2="170" stroke="#475569" stroke-width="3"/>
+<g>
+  <circle cx="170" cy="170" r="10" fill="#E5E7EB"/>
+  <circle cx="460" cy="170" r="10" fill="#CBD5E1"/>
+  <circle cx="750" cy="170" r="10" fill="#93C5FD"/>
+  <circle cx="1030" cy="170" r="10" fill="#64748B"/>
+
+  <text x="118" y="126" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="20" font-weight="800">Entender</text>
+  <text x="100" y="205" fill="#9CA3AF" font-family="Arial, sans-serif" font-size="14">problema e contexto</text>
+
+  <text x="395" y="126" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="20" font-weight="800">Estruturar</text>
+  <text x="375" y="205" fill="#9CA3AF" font-family="Arial, sans-serif" font-size="14">dados e premissas</text>
+
+  <text x="698" y="126" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="20" font-weight="800">Analisar</text>
+  <text x="668" y="205" fill="#9CA3AF" font-family="Arial, sans-serif" font-size="14">padrões e evidências</text>
+
+  <text x="968" y="126" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="20" font-weight="800">Comunicar</text>
+  <text x="955" y="205" fill="#9CA3AF" font-family="Arial, sans-serif" font-size="14">insight e decisão</text>
+</g>
+</svg>

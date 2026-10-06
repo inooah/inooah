@@ -1,0 +1,34 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300">
+    <stop offset="0%" stop-color="#0C1118"/>
+    <stop offset="100%" stop-color="#141C27"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="300" rx="26" fill="url(#bg)"/>
+<rect x="0.75" y="0.75" width="1198.5" height="298.5" rx="25.25" stroke="rgba(255,255,255,0.12)" stroke-width="1.5"/>
+<text x="46" y="44" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="25" font-weight="800">Executive Snapshot</text>
+<text x="46" y="72" fill="#9CA3AF" font-family="Arial, sans-serif" font-size="15">Uma visão resumida da minha proposta profissional em dados.</text>
+
+<g>
+  <rect x="46" y="106" width="254" height="138" rx="20" fill="#0F1720" stroke="#2D3745"/>
+  <text x="68" y="136" fill="#94A3B8" font-family="Arial, sans-serif" font-size="12" font-weight="700">MISSÃO</text>
+  <text x="68" y="168" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="23" font-weight="800">Clareza</text>
+  <text x="68" y="198" fill="#9CA3AF" font-family="Arial, sans-serif" font-size="14">organizar informação para tornar decisões mais objetivas</text>
+
+  <rect x="326" y="106" width="254" height="138" rx="20" fill="#0F1720" stroke="#2D3745"/>
+  <text x="348" y="136" fill="#94A3B8" font-family="Arial, sans-serif" font-size="12" font-weight="700">MÉTODO</text>
+  <text x="348" y="168" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="23" font-weight="800">Rigor</text>
+  <text x="348" y="198" fill="#9CA3AF" font-family="Arial, sans-serif" font-size="14">analisar com consistência, contexto e boa estrutura lógica</text>
+
+  <rect x="606" y="106" width="254" height="138" rx="20" fill="#0F1720" stroke="#2D3745"/>
+  <text x="628" y="136" fill="#94A3B8" font-family="Arial, sans-serif" font-size="12" font-weight="700">ENTREGA</text>
+  <text x="628" y="168" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="23" font-weight="800">Insight</text>
+  <text x="628" y="198" fill="#9CA3AF" font-family="Arial, sans-serif" font-size="14">transformar dados em informação acionável e compreensível</text>
+
+  <rect x="886" y="106" width="268" height="138" rx="20" fill="#0F1720" stroke="#2D3745"/>
+  <text x="908" y="136" fill="#94A3B8" font-family="Arial, sans-serif" font-size="12" font-weight="700">DIREÇÃO</text>
+  <text x="908" y="168" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="23" font-weight="800">Decisão</text>
+  <text x="908" y="198" fill="#9CA3AF" font-family="Arial, sans-serif" font-size="14">aproximar análise técnica de necessidades reais de negócio</text>
+</g>
+</svg>
